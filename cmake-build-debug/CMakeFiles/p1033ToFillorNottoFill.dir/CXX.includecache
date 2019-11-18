@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yryang/Desktop/code/PATquiz/p1033ToFillorNottoFill .cpp
+iostream
+/Users/yryang/Desktop/code/PATquiz/iostream
+string.h
+/Users/yryang/Desktop/code/PATquiz/string.h
+string
+/Users/yryang/Desktop/code/PATquiz/string
+stdlib.h
+/Users/yryang/Desktop/code/PATquiz/stdlib.h
+stdio.h
+/Users/yryang/Desktop/code/PATquiz/stdio.h
+map
+/Users/yryang/Desktop/code/PATquiz/map
+vector
+/Users/yryang/Desktop/code/PATquiz/vector
+set
+/Users/yryang/Desktop/code/PATquiz/set
+math.h
+/Users/yryang/Desktop/code/PATquiz/math.h
+queue
+/Users/yryang/Desktop/code/PATquiz/queue
+algorithm
+/Users/yryang/Desktop/code/PATquiz/algorithm
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yryang/Desktop/code/PATquiz/p1103integer_factorization.cpp
+iostream
+-
+math.h
+/Users/yryang/Desktop/code/PATquiz/math.h
+vector
+/Users/yryang/Desktop/code/PATquiz/vector
+stdio.h
+/Users/yryang/Desktop/code/PATquiz/stdio.h
+stdlib.h
+/Users/yryang/Desktop/code/PATquiz/stdlib.h
+set
+/Users/yryang/Desktop/code/PATquiz/set
+algorithm
+/Users/yryang/Desktop/code/PATquiz/algorithm
+string
+/Users/yryang/Desktop/code/PATquiz/string
+queue
+/Users/yryang/Desktop/code/PATquiz/queue
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yryang/Desktop/code/PATquiz/main.cpp
+iostream
+-
+math.h
+/Users/yryang/Desktop/code/PATquiz/math.h
+vector
+/Users/yryang/Desktop/code/PATquiz/vector
+stdio.h
+/Users/yryang/Desktop/code/PATquiz/stdio.h
+stdlib.h
+/Users/yryang/Desktop/code/PATquiz/stdlib.h
+

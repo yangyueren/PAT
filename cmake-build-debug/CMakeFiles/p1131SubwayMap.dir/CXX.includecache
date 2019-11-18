@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yryang/Desktop/code/PATquiz/p1131SubwayMap.cpp
+stdio.h
+/Users/yryang/Desktop/code/PATquiz/stdio.h
+stdlib.h
+/Users/yryang/Desktop/code/PATquiz/stdlib.h
+string
+/Users/yryang/Desktop/code/PATquiz/string
+string.h
+/Users/yryang/Desktop/code/PATquiz/string.h
+set
+/Users/yryang/Desktop/code/PATquiz/set
+map
+/Users/yryang/Desktop/code/PATquiz/map
+vector
+/Users/yryang/Desktop/code/PATquiz/vector
+algorithm
+/Users/yryang/Desktop/code/PATquiz/algorithm
+unordered_map
+/Users/yryang/Desktop/code/PATquiz/unordered_map
+iostream
+/Users/yryang/Desktop/code/PATquiz/iostream
+

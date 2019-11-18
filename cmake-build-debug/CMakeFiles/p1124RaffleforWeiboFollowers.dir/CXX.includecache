@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yryang/Desktop/code/PATquiz/p1124RaffleforWeiboFollowers.cpp
+iostream
+/Users/yryang/Desktop/code/PATquiz/iostream
+string
+/Users/yryang/Desktop/code/PATquiz/string
+set
+/Users/yryang/Desktop/code/PATquiz/set
+map
+/Users/yryang/Desktop/code/PATquiz/map
+vector
+/Users/yryang/Desktop/code/PATquiz/vector
+string.h
+/Users/yryang/Desktop/code/PATquiz/string.h
+stdio.h
+/Users/yryang/Desktop/code/PATquiz/stdio.h
+stdlib.h
+/Users/yryang/Desktop/code/PATquiz/stdlib.h
+algorithm
+/Users/yryang/Desktop/code/PATquiz/algorithm
+

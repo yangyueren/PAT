@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yryang/Desktop/code/PATquiz/p1074ReversingLinkedList.cpp
+stdio.h
+/Users/yryang/Desktop/code/PATquiz/stdio.h
+stdlib.h
+/Users/yryang/Desktop/code/PATquiz/stdlib.h
+vector
+/Users/yryang/Desktop/code/PATquiz/vector
+set
+/Users/yryang/Desktop/code/PATquiz/set
+string
+/Users/yryang/Desktop/code/PATquiz/string
+string.h
+/Users/yryang/Desktop/code/PATquiz/string.h
+map
+/Users/yryang/Desktop/code/PATquiz/map
+algorithm
+/Users/yryang/Desktop/code/PATquiz/algorithm
+iostream
+/Users/yryang/Desktop/code/PATquiz/iostream
+
